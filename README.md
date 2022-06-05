@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/75100082?v=4" border-radius="50" align="left" width="140" height="140"/>
+<img src="https://avatars.githubusercontent.com/u/75100082?v=4" border-radius="50%" align="left" width="140" height="140"/>
 
 # Hey! I'm [Derky](https://derkyu.space)
 
