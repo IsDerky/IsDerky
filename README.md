@@ -18,4 +18,4 @@ Digital Enjoyer ( Gamer / Developer / Chatter )
 
 
 ## Activity
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314tdmnfzjyq4wlojnpige4q4v44&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=314tdmnfzjyq4wlojnpige4q4v44&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=darkqwew&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=darkqwew&redirect=true)
