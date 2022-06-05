@@ -2,9 +2,9 @@
 
 # Hey! I'm [Derky](https://derkyu.space)
 <div>
-<a href="mailto:contact@derkyu.space" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://steamcommunity.com/id/Derky18/" target="_blank"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
-<a href="https://twitch.tv/isderky" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+<a target="_blank" href="mailto:contact@derkyu.space"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a target="_blank" href="https://steamcommunity.com/id/Derky18/"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
+<a target="_blank" href="https://twitch.tv/isderky"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 </div>
 
 --- 
