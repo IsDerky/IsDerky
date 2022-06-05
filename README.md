@@ -1,9 +1,11 @@
 <img src="https://avatars.githubusercontent.com/u/75100082?v=4" align="left" width="170" height="170"/>
 
 # Hey! I'm [Derky](https://derkyu.space)
+<div>
 <img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}"/>
 <img src="{https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white}" />
-<img src="{https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white}/>
+<img src="{https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white}"/>
+</div>
 --- 
 
 **Digital Enjoyer ( Gamer / Developer / Chatter )**
