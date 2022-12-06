@@ -18,7 +18,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ## Projects
-- [Derkyu.space](https://github.com/IsDerky/Derkyu-website)
+- [Portfolio](https://github.com/IsDerky/Derkyu-website)
 
 ## Activity
 [![Recently tracked on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=darkqwew&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=darkqwew&redirect=true)
