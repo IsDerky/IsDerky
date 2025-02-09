@@ -21,4 +21,4 @@
 - [Portfolio](https://github.com/IsDerky/Derkyu-website)
 
 ## Activity
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=darkqwew&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=darkqwew&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=darkqwew&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=darkqwew&redirect=true)
