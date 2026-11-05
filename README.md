@@ -102,21 +102,6 @@ Otros proyectos: [oficina-pixel](https://github.com/IsDerky/oficina-pixel) (pane
   <img src="https://streak-stats.demolab.com?user=IsDerky&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&locale=es&disable_animations=true" alt="Racha de contribuciones" />
 </p>
 
----
-
-<details>
-<summary><b>Fuera del ámbito profesional</b></summary>
-<br />
-
-<a href="https://twitch.tv/isderky"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
-<a href="https://steamcommunity.com/id/Derky18/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
-
-<br /><br />
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=darkqwew&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=darkqwew&redirect=true)
-
-</details>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0d1117&height=100&section=footer" alt="" />
 </p>
