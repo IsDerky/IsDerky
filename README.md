@@ -1,24 +1,41 @@
-<img src="https://avatars.githubusercontent.com/u/75100082?v=4" align="left" width="170" height="170"/>
+# Alex (Derky)
 
-# Hey! I'm [Derky](https://derkyu.space)
-<div>
-<a target="_blank" href="mailto:contact@derkyu.space"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a target="_blank" href="https://steamcommunity.com/id/Derky18/"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
-<a target="_blank" href="https://twitch.tv/isderky"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-</div>
+Ingeniero cloud junior en NTT DATA, en Barcelona. Técnico en ASIR. Me interesa la infraestructura: DevOps, SRE y seguridad defensiva.
 
---- 
+En casa tengo un servidor que llevo año y medio tratando como producción, y la mayor parte de lo que sé sale de ahí: aloja servidores de juego de clientes, una app web propia y un honeypot aislado de la red.
 
-**Digital Enjoyer ( Gamer / Developer / Chatter )**
+## En qué ando
 
-### Resources
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+- **En el trabajo**: gestión cloud con Apigee, Jenkins y GitLab, y resolución de incidencias.
+- **En casa**: backups cifrados con simulacros de restauración, vigilancia externa, despliegues automáticos con rollback y, ahora, pasar todo a Ansible y Terraform.
 
-## Projects
-- [Portfolio](https://github.com/IsDerky/Derkyu-website)
+## Stack
 
-## Activity
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=darkqwew&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=darkqwew&redirect=true)
+Linux · Bash · systemd · Docker · nginx · fail2ban · iptables · GitHub Actions · Jenkins · GitLab · Ansible · Terraform · Cloudflare (Workers, Tunnel) · restic · Python · TypeScript (Bun, Node.js, Next.js) · SQLite · PostgreSQL
+
+## Proyectos
+
+- **[homelab](https://github.com/IsDerky/homelab)**: cómo está montado mi servidor. Red, seguridad, backups con simulacros mensuales, vigilancia y CI/CD con runners propios. Incluye el rol de Ansible del honeypot.
+- **[cowrie-honeypot](https://github.com/IsDerky/cowrie-honeypot)**: honeypot SSH/Telnet en Docker, aislado por capas y con una prueba de aislamiento que lo para si falla.
+- **[asistente-ops](https://github.com/IsDerky/asistente-ops)**: bot de Discord para operar el servidor desde el móvil. Recolector de estado, LLM con herramientas, acciones solo con botón y vigilante en Cloudflare Workers (también en Terraform).
+- **[bentonime-showcase](https://github.com/IsDerky/bentonime-showcase)**: app web self-hosted con despliegue por versiones y rollback automático.
+
+También: [oficina-pixel](https://github.com/IsDerky/oficina-pixel) (el estado del servidor como edificio pixel-art), [bodycam-rp-overlay](https://github.com/IsDerky/bodycam-rp-overlay) y mi [portfolio](https://github.com/IsDerky/portfolio).
+
+## Contacto
+
+- Correo: [contact@derkyu.lol](mailto:contact@derkyu.lol)
+- [LinkedIn](https://www.linkedin.com/in/alejandro-miguel-palacios-158b4a418/)
+- Web: [derkyu.com](https://derkyu.com)
+
+---
+
+<details>
+<summary>Fuera del trabajo</summary>
+
+- [Twitch](https://twitch.tv/isderky)
+- [Steam](https://steamcommunity.com/id/Derky18/)
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=darkqwew&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=darkqwew&redirect=true)
+
+</details>
