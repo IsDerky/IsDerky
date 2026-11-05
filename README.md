@@ -18,7 +18,7 @@
 
 Ingeniero Cloud en **NTT DATA** (Barcelona) y Técnico Superior en Administración de Sistemas Informáticos en Red (**ASIR**). Mi interés profesional se centra en la infraestructura: **DevOps, SRE y seguridad defensiva**.
 
-Desde hace año y medio administro un servidor propio con criterios de producción. Aloja servidores de juego de clientes, una aplicación web propia y un honeypot aislado de la red, y es el entorno donde pongo en práctica buena parte de lo que aprendo.
+Desde hace año y medio administro un servidor propio con criterios de producción. Aloja servidores de juegos, una aplicación web propia y un honeypot aislado de la red, y es el entorno donde pongo en práctica buena parte de lo que aprendo.
 
 - **Actualmente:** gestión de APIs con Apigee, integración continua con Jenkins y GitLab, y resolución de incidencias.
 - **En mi infraestructura:** copias de seguridad cifradas con simulacros de restauración, vigilancia externa y despliegues automáticos con rollback.
