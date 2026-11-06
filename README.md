@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1800&color=22C55E&center=true&vCenter=true&width=620&lines=Ingeniero+Cloud+en+NTT+DATA;Infraestructura%2C+automatizaci%C3%B3n+y+seguridad+defensiva;Servidor+propio+en+producci%C3%B3n+desde+2025" alt="Ingeniero Cloud en NTT DATA" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1800&color=22C55E&center=true&vCenter=true&width=620&lines=Ingeniero+junior+en+NTT+DATA;Infraestructura%2C+automatizaci%C3%B3n+y+seguridad+defensiva;Servidor+propio+en+producci%C3%B3n+desde+2025" alt="Ingeniero junior en NTT DATA" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### Sobre mí
 
-Ingeniero Cloud en **NTT DATA** (Barcelona) y Técnico Superior en Administración de Sistemas Informáticos en Red (**ASIR**). Mi interés profesional se centra en la infraestructura: **DevOps, SRE y seguridad defensiva**.
+Ingeniero junior en **NTT DATA** (Barcelona) y Técnico Superior en Administración de Sistemas Informáticos en Red (**ASIR**). Mi interés profesional se centra en la infraestructura: **DevOps, SRE y seguridad defensiva**.
 
 Desde hace año y medio administro un servidor propio con criterios de producción. Aloja servidores de juegos, una aplicación web propia y un honeypot aislado de la red, y es el entorno donde pongo en práctica buena parte de lo que aprendo.
 
